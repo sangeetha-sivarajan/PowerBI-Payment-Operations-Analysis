@@ -1,14 +1,14 @@
-Payment Processing Performance Dashboard – Power BI Project
+## Payment Processing Performance Dashboard – Power BI Project
 
 This project analyzes daily payment operations including ACH, EFT, Wire, and VCC transactions. The dashboard highlights total payments processed, payment amount trends, SLA performance, exception reasons, and processor-wise productivity using Power BI.
 
 📊 Project Files
 
-# Payment_Processing_Dashboard.pbix – Power BI dashboard
+ Payment_Processing_Dashboard.pbix – Power BI dashboard
 
-# payment_data.csv – Sample dataset used for analysis
+ payment_data.csv – Sample dataset used for analysis
 
-# dashboard_preview.png – Dashboard snapshot
+ dashboard_preview.png – Dashboard snapshot
 
 🛠 Skills Used
 
