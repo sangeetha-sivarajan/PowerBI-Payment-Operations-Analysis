@@ -16,14 +16,14 @@ Power Query • DAX (SUM, COUNT) • Data Cleaning • KPI Metrics • Visualiza
 
 📌 Insights Included
 
-Total payments processed
+*  Total payments processed
 
-Amount trends by day
+*  Amount trends by day
 
-Payment type distribution
+*  Payment type distribution
 
-Exception & non-payment cases
+*  Exception & non-payment cases
 
-SLA performance
+*  SLA performance
 
-Processor-wise performance
+*  Processor-wise performance
