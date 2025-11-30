@@ -4,11 +4,11 @@ This project analyzes daily payment operations including ACH, EFT, Wire, and VCC
 
 📊 Project Files
 
-Payment_Processing_Dashboard.pbix – Power BI dashboard
+# Payment_Processing_Dashboard.pbix – Power BI dashboard
 
-payment_data.csv – Sample dataset used for analysis
+# payment_data.csv – Sample dataset used for analysis
 
-dashboard_preview.png – Dashboard snapshot
+# dashboard_preview.png – Dashboard snapshot
 
 🛠 Skills Used
 
